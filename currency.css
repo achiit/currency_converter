@@ -104,6 +104,7 @@ a{
     text-decoration: none;
 }
 .scrollable {
+  
   overflow-y: scroll;
   height: 100vh;
 }
